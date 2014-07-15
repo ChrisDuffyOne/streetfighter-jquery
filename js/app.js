@@ -36,6 +36,7 @@ $(document).ready(function() {
 	} 
 }).keyup(function() {
 	$(".ryu-cool").hide();
+  $(".ryu-still").show();
 	
 });
 
